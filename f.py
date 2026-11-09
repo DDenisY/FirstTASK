@@ -7,4 +7,7 @@ print(counter)
 def opp():
     print ("sas")
 
-opp
+def work_with_port():
+    print("s")
+    sw = '1'
+    print(sw)
